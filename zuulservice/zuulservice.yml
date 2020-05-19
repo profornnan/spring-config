@@ -1,5 +1,5 @@
 # p214 참조
 zuul.ignored-services: '*'
-zuul.prefix: /api
+zuul.prefix: /api4
 zuul.routes.organizationservice: /organization/**
 zuul.routes.licensingservice: /licensing/**
